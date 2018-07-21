@@ -1,0 +1,29 @@
+
+header {
+    background-color: pink;
+    color: white;
+    font-size: 22px;
+    line-height: 34px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.sub {
+    box-sizing: content-box;
+    width: 100%;
+    border: 1px solid black;
+}
+
+h1{
+    font-family: Arial;
+}
+
+h2{
+    font-family: Arial;
+}
+
+main {
+    padding-top: 40px;
+    font-size: 22px;
+    line-height: 34px;
+}
